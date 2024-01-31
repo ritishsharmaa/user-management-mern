@@ -1,0 +1,48 @@
+body {
+    background: url('C:\Users\asus\OneDrive\Desktop\resume projects\UserManagementProject\login img.jpeg');
+    background-color: rgb(193, 179, 179);
+    /* opacity: 700%; */
+    /* width: 50%; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+/* .form-group {
+    background-color: antiquewhite;
+    height: 100%;
+} */
+
+
+.navbar-nav ml-auto {
+    background-color: pink;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: black
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: rgb(100, 100, 142);
+}
+
+
+.form-group {
+    width: 30%;
+    color: white;
+    /* align-items: center;
+    justify-content: center;
+    place-items: center; */
+    margin: 2rem;
+    margin-left: 10rem;
+}
+
+h3 {
+    /* width: 60%; */
+    color: white;
+    margin-left: 18%;
+    font-size: 18px;
+    /* margin: 2rem; */
+    /* margin-left: 35rem; */
+}
